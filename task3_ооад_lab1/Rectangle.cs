@@ -12,5 +12,6 @@ namespace task3_ооад_lab1
             this.a = a; this.b = b;
 
         }
+        public int Square => a * b;
     }
 }
